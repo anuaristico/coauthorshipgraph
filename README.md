@@ -31,6 +31,7 @@ The four selected SDGs for this project are:
   <figcaption>Figure 1: Bipartite graphs for each network/SDG on the assortativity regarding the degree of the nodes.</figcaption>
 </figure>
 <br>
+<br>
 
 In the graph above, you can see a relationship between the degree of a given node and the average degree of all its respective neighbors. All graphs have a straight line with a positive slope, which indicates that, for the most part, a vertex with many neighbors tends to have neighbors that also have many neighbors and vice versa. However, there are exceptions, as can be clearly seen in the SDG 4 graph, where there are points that are quite displaced from the straight line, showing that there are cases in which a node can have several neighbors and its neighbors may not have as many neighbors.
 
@@ -38,6 +39,7 @@ In the graph above, you can see a relationship between the degree of a given nod
   <img src="output/table.png" alt="Tabela">
   <figcaption>Figure 2: Table containing the data of each graph.</figcaption>
 </figure>
+<br>
 <br>
 
 
